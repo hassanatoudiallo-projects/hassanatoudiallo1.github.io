@@ -10,3 +10,4 @@ Site portfolio personnel en HTML/CSS, à publier avec GitHub Pages.
 ## Publier avec GitHub Pages
 Dans le dépôt GitHub : **Settings → Pages → Build and deployment → Deploy from a branch**.
 Choisir la branche `main`, le dossier `/ (root)`, puis cliquer sur **Save**.
+Portfolio Data Analyst
